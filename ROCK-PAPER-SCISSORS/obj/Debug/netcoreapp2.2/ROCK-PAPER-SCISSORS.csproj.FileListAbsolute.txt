@@ -1,0 +1,22 @@
+D:\Users\dayfe\Documents\Prova HBSIS_Jogo\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\bin\Debug\netcoreapp2.2\ROCK-PAPER-SCISSORS.deps.json
+D:\Users\dayfe\Documents\Prova HBSIS_Jogo\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\bin\Debug\netcoreapp2.2\ROCK-PAPER-SCISSORS.runtimeconfig.json
+D:\Users\dayfe\Documents\Prova HBSIS_Jogo\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\bin\Debug\netcoreapp2.2\ROCK-PAPER-SCISSORS.runtimeconfig.dev.json
+D:\Users\dayfe\Documents\Prova HBSIS_Jogo\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\bin\Debug\netcoreapp2.2\ROCK-PAPER-SCISSORS.dll
+D:\Users\dayfe\Documents\Prova HBSIS_Jogo\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\bin\Debug\netcoreapp2.2\ROCK-PAPER-SCISSORS.pdb
+D:\Users\dayfe\Documents\Prova HBSIS_Jogo\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\obj\Debug\netcoreapp2.2\ROCK-PAPER-SCISSORS.csprojAssemblyReference.cache
+D:\Users\dayfe\Documents\Prova HBSIS_Jogo\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\obj\Debug\netcoreapp2.2\ROCK-PAPER-SCISSORS.csproj.CoreCompileInputs.cache
+D:\Users\dayfe\Documents\Prova HBSIS_Jogo\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\obj\Debug\netcoreapp2.2\ROCK-PAPER-SCISSORS.AssemblyInfoInputs.cache
+D:\Users\dayfe\Documents\Prova HBSIS_Jogo\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\obj\Debug\netcoreapp2.2\ROCK-PAPER-SCISSORS.AssemblyInfo.cs
+D:\Users\dayfe\Documents\Prova HBSIS_Jogo\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\obj\Debug\netcoreapp2.2\ROCK-PAPER-SCISSORS.dll
+D:\Users\dayfe\Documents\Prova HBSIS_Jogo\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\obj\Debug\netcoreapp2.2\ROCK-PAPER-SCISSORS.pdb
+D:\Users\dayfe\Documents\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\bin\Debug\netcoreapp2.2\ROCK-PAPER-SCISSORS.deps.json
+D:\Users\dayfe\Documents\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\bin\Debug\netcoreapp2.2\ROCK-PAPER-SCISSORS.runtimeconfig.json
+D:\Users\dayfe\Documents\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\bin\Debug\netcoreapp2.2\ROCK-PAPER-SCISSORS.runtimeconfig.dev.json
+D:\Users\dayfe\Documents\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\bin\Debug\netcoreapp2.2\ROCK-PAPER-SCISSORS.dll
+D:\Users\dayfe\Documents\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\bin\Debug\netcoreapp2.2\ROCK-PAPER-SCISSORS.pdb
+D:\Users\dayfe\Documents\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\obj\Debug\netcoreapp2.2\ROCK-PAPER-SCISSORS.csprojAssemblyReference.cache
+D:\Users\dayfe\Documents\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\obj\Debug\netcoreapp2.2\ROCK-PAPER-SCISSORS.csproj.CoreCompileInputs.cache
+D:\Users\dayfe\Documents\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\obj\Debug\netcoreapp2.2\ROCK-PAPER-SCISSORS.AssemblyInfoInputs.cache
+D:\Users\dayfe\Documents\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\obj\Debug\netcoreapp2.2\ROCK-PAPER-SCISSORS.AssemblyInfo.cs
+D:\Users\dayfe\Documents\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\obj\Debug\netcoreapp2.2\ROCK-PAPER-SCISSORS.dll
+D:\Users\dayfe\Documents\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\ROCK-PAPER-SCISSORS\obj\Debug\netcoreapp2.2\ROCK-PAPER-SCISSORS.pdb
