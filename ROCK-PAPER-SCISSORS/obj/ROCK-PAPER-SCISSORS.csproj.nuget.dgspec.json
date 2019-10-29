@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\dayfe\\Documents\\ROCK-PAPER-SCISSORS\\ROCK-PAPER-SCISSORS\\ROCK-PAPER-SCISSORS\\ROCK-PAPER-SCISSORS.csproj": {}
+    "D:\\Users\\dayfe\\Documents\\Prova HBSIS_Jogo\\TesteJogo_HBSIS\\ROCK-PAPER-SCISSORS\\ROCK-PAPER-SCISSORS.csproj": {}
   },
   "projects": {
-    "D:\\Users\\dayfe\\Documents\\ROCK-PAPER-SCISSORS\\ROCK-PAPER-SCISSORS\\ROCK-PAPER-SCISSORS\\ROCK-PAPER-SCISSORS.csproj": {
+    "D:\\Users\\dayfe\\Documents\\Prova HBSIS_Jogo\\TesteJogo_HBSIS\\ROCK-PAPER-SCISSORS\\ROCK-PAPER-SCISSORS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\dayfe\\Documents\\ROCK-PAPER-SCISSORS\\ROCK-PAPER-SCISSORS\\ROCK-PAPER-SCISSORS\\ROCK-PAPER-SCISSORS.csproj",
+        "projectUniqueName": "D:\\Users\\dayfe\\Documents\\Prova HBSIS_Jogo\\TesteJogo_HBSIS\\ROCK-PAPER-SCISSORS\\ROCK-PAPER-SCISSORS.csproj",
         "projectName": "ROCK-PAPER-SCISSORS",
-        "projectPath": "D:\\Users\\dayfe\\Documents\\ROCK-PAPER-SCISSORS\\ROCK-PAPER-SCISSORS\\ROCK-PAPER-SCISSORS\\ROCK-PAPER-SCISSORS.csproj",
+        "projectPath": "D:\\Users\\dayfe\\Documents\\Prova HBSIS_Jogo\\TesteJogo_HBSIS\\ROCK-PAPER-SCISSORS\\ROCK-PAPER-SCISSORS.csproj",
         "packagesPath": "C:\\Users\\dayfe\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\dayfe\\Documents\\ROCK-PAPER-SCISSORS\\ROCK-PAPER-SCISSORS\\ROCK-PAPER-SCISSORS\\obj\\",
+        "outputPath": "D:\\Users\\dayfe\\Documents\\Prova HBSIS_Jogo\\TesteJogo_HBSIS\\ROCK-PAPER-SCISSORS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

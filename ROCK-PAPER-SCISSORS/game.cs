@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ROCK_PAPER_SCISSORS
 {
-    class Game
+    public class Game
     {
         public string Player { get; set; }
         public string Move { get; set; }
